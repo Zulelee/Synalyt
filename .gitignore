@@ -1,0 +1,116 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Migrations
+migrations/
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Configuration files
+*.env
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# PyCharm
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.idea/
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Test results
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
+*.test
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+*.pyi
+
+# Sphinx documentation
+docs/_build/
+
+# Pytest
+.cache/
+*.tox/
+*.nox/
+*.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+*.tox/
+*.nox/
+*.coverage
+*.coverage.*
+*.log
+*.tmp
+*.test
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Node.js
+node_modules/
+
+# Yarn
+yarn-error.log
+
+# Yarn
+yarn.lock
+
+# npm
+package-lock.json
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
